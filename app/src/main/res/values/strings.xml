@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="title_main">Baking App</string>
+    <string name="title_recipe_list">Baking</string>
+    <string name="internet_error">internet error ,no data</string>
+    <string name="ingredientModels">ingredientModels</string>
+    <string name="steps">steps</string>
+    <string name="title_step">Steps</string>
+    <string name="title_ingredient">Ingredient</string>
+    <string name="loading">loading...</string>
+    <string name="success">success</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_recipe_details">RecipeDetailsActivity</string>
+    <string name="title_activity_step_details">StepDetailsActivity</string>
+    <string name="tab_text_1">Ingredients</string>
+    <string name="tab_text_2">Steps</string>
+    <string name="action_settings">Settings</string>
+    <string name="appwidget_text">Baking App Ingredient List</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="add_to_widget">ADD TO WIDGET</string>
+</resources>
